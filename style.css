@@ -1,0 +1,13 @@
+#heading {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#take_snap{
+    font-size: 20px;
+}
+ 
+canvas {
+    background-color: rgb(170, 173, 230);
+}
